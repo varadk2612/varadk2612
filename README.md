@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Varad and I'm an Aerospace Engineering Junior with a CS minor. 
+
 <!--
 **varadk2612/varadk2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
