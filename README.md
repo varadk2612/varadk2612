@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Varad and I'm an Aerospace Engineering Junior with a CS minor. I'm very passionate about robotics and autonomous control.
+My name is Varad and I'm an Aerospace Engineering Senior with a CS minor. I'm very passionate about controls as well as software for safety-critical systems.
 
 <!--
 **varadk2612/varadk2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
